@@ -35,6 +35,12 @@ public class Vedeesh{
 }
 ```
 
+```
+Languages: [Java, Python, C, C++, HTML, CSS]
+Technologies: [Git]
+Databases: [SQL]
+```
+
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://vedeesh.github.io/Me/myFavicon.ico'=&logoColor=white)](https://vedeesh.github.io/Me/)
 -->
