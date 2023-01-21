@@ -9,7 +9,7 @@ class Knowledge_base{
     ArrayList<String> Databases = new ArrayList<String>();
 
     public void feats_unraveled() {                   //at the time of making
-        Languages.add("Java");Languages.add("Python");Languages.add("C");Languages.add("C++");Languages.add("HTML");
+        Languages.add("Java");Languages.add("Python");Languages.add("C");Languages.add("C++");
     }
 }
 
@@ -17,7 +17,7 @@ class Inc_base extends Knowledge_base {
     @Override
     public void feats_unraveled() {
         super.feats_unraveled();
-        Languages.add("CSS");
+        Languages.add("HTML");Languages.add("CSS");
         Technologies.add("Git");
         Databases.add("SQL");
         //_______.add("To be updated");
