@@ -1,5 +1,7 @@
-### < Hello World! 👋 I'm [Vedeesh](https://github.com/Vedeesh6) />
+👋 
+[![MasterHead]()](https://github.com/Vedeesh6)
 
+============================================================================
 ```java
 import java.util.*;
 
@@ -19,7 +21,7 @@ class Inc_base extends Knowledge_base {
         super.feats_unraveled();
         Languages.add("HTML");Languages.add("CSS");
         Technologies.add("Git");
-        Databases.add("SQL");
+        Databases.add("MySQL");
         //_______.add("To be updated");
     }
 }
@@ -35,12 +37,9 @@ public class Vedeesh{
 }
 ```
 
-```
-Languages: [Java, Python, C, C++, HTML, CSS]
-Technologies: [Git]
-Databases: [MySQL]
-```
+[![@vedeesh6's Holopin badges](https://holopin.me/vedeesh6)](https://holopin.io/@vedeesh6)
 
+============================================================================
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://vedeesh.github.io/Me/myFavicon.ico'=&logoColor=white)](https://vedeesh.github.io/Me/)
 -->
@@ -51,6 +50,13 @@ Databases: [MySQL]
 <!--[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19384351/vedeesh)-->
 
 ![Vedeesh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Vedeesh6&theme=vue-dark&hide_border=false)
+
+### Github Trophy
+ <div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vedeesh6&column=6&theme=onedark" align="left"/>
+</div>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedeesh6&label=Visitors&color=0e75b6&style=flat" alt="Vedeesh" /></p>
 
 <!--
 **Vedeesh6/Vedeesh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
