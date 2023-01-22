@@ -38,7 +38,7 @@ public class Vedeesh{
 ```
 Languages: [Java, Python, C, C++, HTML, CSS]
 Technologies: [Git]
-Databases: [SQL]
+Databases: [MySQL]
 ```
 
 
