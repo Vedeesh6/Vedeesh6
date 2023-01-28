@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/88491153/213903315-e4fb0078-60be-4345-87db-102b85ec8634.png)](https://github.com/Vedeesh6)
 
-============================================================================
+===========================================================================
 ```java
 import java.util.*;
 
@@ -38,7 +38,7 @@ public class Vedeesh{
 
 [![@vedeesh6's Holopin badges](https://holopin.me/vedeesh6)](https://holopin.io/@vedeesh6)
 
-============================================================================
+===========================================================================
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://vedeesh.github.io/Me/myFavicon.ico'=&logoColor=white)](https://vedeesh.github.io/Me/)
 -->
