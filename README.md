@@ -50,7 +50,7 @@ public class Vedeesh{
 <!--[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19384351/vedeesh)-->
 [![CodeWars](https://www.codewars.com/users/Vedeesh6/badges/large)](https://www.codewars.com/users/Vedeesh6)
 
-========================================================
+======================================================
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
@@ -58,7 +58,7 @@ public class Vedeesh{
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedeesh6&label=Visitors&color=0e75b6&style=flat" alt="Vedeesh" /></p>
 
-========================================================
+======================================================
 ### Github Trophies
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Vedeesh6&column=6&theme=onedark" align="left"/>
