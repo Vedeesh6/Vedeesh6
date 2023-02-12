@@ -14,7 +14,7 @@ class Knowledge_base{
     }
 }
 
-class Inc_base extends Knowledge_base {
+class Increased_knowledge extends Knowledge_base {
     @Override
     public void feats_unraveled() {
         super.feats_unraveled();
@@ -27,7 +27,7 @@ class Inc_base extends Knowledge_base {
 
 public class Vedeesh{
     public static void main(String[] args) {
-        Knowledge_base obj = new Inc_base();
+        Knowledge_base obj = new Increased_knowledge();
         obj.feats_unraveled();
         System.out.println("Languages: "+obj.Languages);
         System.out.println("Technologies: "+obj.Technologies);
