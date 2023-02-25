@@ -25,7 +25,7 @@ class Increased_knowledge extends Knowledge_base {
     }
 }
 
-public class Vedeesh{
+class Vedeesh{
     public static void main(String[] args) {
         Knowledge_base obj = new Increased_knowledge();
         obj.feats_unraveled();
