@@ -18,7 +18,7 @@ class Increased_knowledge extends Knowledge_base {
     @Override
     public void feats_unraveled() {
         super.feats_unraveled();
-        Languages.add("HTML");Languages.add("CSS");
+        Languages.add("HTML");Languages.add("CSS");Languages.add("JavaScript");
         Technologies.add("Git");
         Databases.add("MySQL");
         //_______.add("To be updated");
