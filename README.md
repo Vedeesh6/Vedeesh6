@@ -9,7 +9,7 @@ class Knowledge_base{
     ArrayList<String> Technologies = new ArrayList<String>();
     ArrayList<String> Databases = new ArrayList<String>();
 
-    public void feats_unraveled() {                   //at the time of making
+    public void feats_unraveled() {                        //at the time of making
         Languages.add("Java");Languages.add("Python");Languages.add("C");Languages.add("C++");
     }
 }
