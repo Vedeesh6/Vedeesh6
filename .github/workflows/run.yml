@@ -1,0 +1,39 @@
+name: Run and show Java code
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Compile Java code
+        run: |
+          javac code.java
+
+      - name: Run Java code
+        run: |
+          java code
+
+      - name: Update README.md file
+        run: |
+          echo "```
+          $(cat code.java)
+          ```" >> README.md
+          echo "```
+          $java code
+          ```" >> README.md
+
+      - name: Push changes
+        run: |
+          git config user.name "Your Name"
+          git config user.email "your_email@example.com"
+          git add README.md
+          git commit -m "Update README.md with code"
+          git push
