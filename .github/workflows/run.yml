@@ -13,21 +13,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Compile Java code
-        run: |
-          javac code.java
+      - name: Install Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: 11
 
-      - name: Run Java code
+      - name: Run Java code in README.md file
         run: |
-          java code
+          java -cp . $(cat README.md | grep -Eo '`java(.*?)`' | sed -e 's/`java//g' -e 's/`//g')
 
-      - name: Update README.md file
+      - name: Add output to README.md file
         run: |
-          echo "```
-          $(cat code.java)
-          ```" >> README.md
-          echo "```
-          $java code
+          echo "```java
+          $java -cp . $(cat README.md | grep -Eo '`java(.*?)`' | sed -e 's/`java//g' -e 's/`//g')
           ```" >> README.md
 
       - name: Push changes
@@ -35,5 +33,5 @@ jobs:
           git config user.name "Your Name"
           git config user.email "your_email@example.com"
           git add README.md
-          git commit -m "Update README.md with code"
+          git commit -m "Update README.md file with Java code output"
           git push
