@@ -19,7 +19,7 @@ class Increased_knowledge extends Knowledge_base {
     public void feats_unraveled() {
         super.feats_unraveled();
         Languages.add("HTML");Languages.add("CSS");Languages.add("Kotlin");
-        Technologies.add("Git");
+        Technologies.add("Git");Technologies.add("Machine Learning");
         Databases.add("MySQL");
         //_______.add("To be updated");
     }
