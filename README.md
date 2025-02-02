@@ -52,7 +52,7 @@ class Vedeesh{
 
 =====================================================
 
-<img align="right" alt="Coding" height="300" width="400" src="https://github.com/Vedeesh6/Vedeesh6/blob/5fcb0020285d2e5ec1bfe0e7bcf107a2bd4c72f4/Coding.gif">
+<img align="right" alt="Coding" height="300" width="300" src="https://github.com/Vedeesh6/Vedeesh6/blob/5fcb0020285d2e5ec1bfe0e7bcf107a2bd4c72f4/Coding.gif">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vedeesh6&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&stroke=39DD28&fire=DD2727&dates=56DDCC&sideNums=DD2727)](https://git.io/streak-stats)
 
