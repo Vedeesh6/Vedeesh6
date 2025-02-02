@@ -42,6 +42,7 @@ class Vedeesh{
 ### Display
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://vedeesh.github.io/Me/myFavicon.ico'=&logoColor=white)](https://vedeesh.github.io/Me/)
 -->
+<img align="right" alt="Coding" height="400" width="300" src="https://github.com/Vedeesh6/Vedeesh6/blob/5fcb0020285d2e5ec1bfe0e7bcf107a2bd4c72f4/Coding.gif">
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedeesh-dwivedi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Vedeesh6)
@@ -51,8 +52,6 @@ class Vedeesh{
 [![CodeWars](https://www.codewars.com/users/Vedeesh6/badges/large)](https://www.codewars.com/users/Vedeesh6)
 
 =====================================================
-
-<img align="right" alt="Coding" height="300" width="300" src="https://github.com/Vedeesh6/Vedeesh6/blob/5fcb0020285d2e5ec1bfe0e7bcf107a2bd4c72f4/Coding.gif">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vedeesh6&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&stroke=39DD28&fire=DD2727&dates=56DDCC&sideNums=DD2727)](https://git.io/streak-stats)
 
